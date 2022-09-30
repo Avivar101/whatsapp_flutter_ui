@@ -3,4 +3,5 @@
 
 
 ## Credits:
-This app was built with aid and refference to https://github.com/RivaanRanawat/whatsapp-flutter-ui/tree/main
+This app was built with aid and reference 
+to https://github.com/RivaanRanawat/whatsapp-flutter-ui/tree/main
